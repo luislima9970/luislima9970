@@ -29,6 +29,10 @@
     <td><img src="https://skillicons.dev/icons?i=flutter,firebase" height="36" alt="Flutter, Firebase" /></td>
     <td><a href="https://github.com/luislima9970/CircleUp"><b>CircleUp</b></a><br/>Mobile app for group challenges with photo submissions, peer voting and leaderboards</td>
   </tr>
+    <tr>
+    <td><img src="https://skillicons.dev/icons?i=py,docker" height="36" alt="Python, Docker" /></td>
+    <td><a href="https://github.com/paipaga/ScyTech-Hackaton"><b>SmartCampus (SciTech Hackathon)</b></a><br/>Digital twin of six simulated classrooms with live sensor data over MQTT, a Streamlit dashboard with an interactive floor plan, and device commands via Coreflux</td>
+  </tr>
   <tr>
     <td><img src="https://skillicons.dev/icons?i=php,sqlite" height="36" alt="PHP, SQL" /></td>
     <td><a href="https://github.com/luislima9970/PowerPit-Website"><b>PowerPit-Website</b></a><br/>Gym website built for the Web Languages and Technologies course at FEUP</td>
